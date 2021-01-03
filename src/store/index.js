@@ -3,7 +3,7 @@ import Vuex from 'vuex';
 
 Vue.use(Vuex);
 
-//eslint-disable-next-line
+/* eslint-disable */
 export default new Vuex.Store({
   state: {
   },
